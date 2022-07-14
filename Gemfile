@@ -17,6 +17,7 @@ gem 'paper_trail', '~> 12.3'
 gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
 gem 'cancancan', '~> 3.4'
 gem 'devise', '~> 4.8', '>= 4.8.1'
+gem 'foreman', '~> 0.87.2'
 
 group :development, :test do
   gem 'byebug', '~> 11.1', '>= 11.1.3'
